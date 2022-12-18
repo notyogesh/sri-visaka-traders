@@ -15,7 +15,7 @@ body {
 }
 img {
   width: 100%;
-  box-shadow: 3px 3px 1px #ccc;
+  box-shadow: 5px 5px 5px #ccc;
 }
 h1 {
   padding: 2rem;
